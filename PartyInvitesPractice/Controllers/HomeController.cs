@@ -19,5 +19,10 @@ namespace PartyInvitesPractice.Controllers
         {
             return View();
         }
+
+        public ViewResult ListResponses()
+        {
+            return View();
+        }
     }
 }
